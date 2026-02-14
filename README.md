@@ -77,8 +77,8 @@ Data Collection
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anonymous696924&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous696924&layout=compact&hide_border=true" />
 </p>
 
 ---
